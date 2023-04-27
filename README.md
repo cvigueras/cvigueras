@@ -9,7 +9,7 @@
 </a></div>
 
 <a href="https://github.com/cvigueras">
-  <img style="display:block;width:100%;height:100%;margin-left:auto;margin-right:auto" src="https://github-profile-trophy.vercel.app/?username=cvigueras" />
+  <img style="display:block;width:100%;height:100%;margin-left:auto;margin-right:auto" src="https://github-profile-trophy.vercel.app/?username=cvigueras" href="https://github.com/ryo-ma/github-profile-trophy" />
 </a>  <br>  <br>
 
 <p align="center">
