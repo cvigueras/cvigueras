@@ -12,8 +12,6 @@
   <img style="display:block;width:100%;height:100%;margin-left:auto;margin-right:auto" src="https://github-profile-trophy.vercel.app/?username=cvigueras" href="https://github.com/ryo-ma/github-profile-trophy" />
 </a>  <br>  <br>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=cvigueras&theme=onestar&row=1&column=8)
-
 <p align="center">
   <img style="display:block;width:30%;height:100%;margin-left:auto;margin-right:auto" src="https://github-profile-trophy.vercel.app/?username=cvigueras&theme=onestar&row=1&column=8" />
 </p>
