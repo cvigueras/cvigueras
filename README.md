@@ -13,7 +13,7 @@
 </a>  <br>  <br>
 
 <p align="center">
-  <img style="display:block;width:30%;height:100%;margin-left:auto;margin-right:auto" src="https://github-profile-trophy.vercel.app/?username=cvigueras&theme=onestar&row=1&column=8" />
+  <img style="display:block;width:30%;height:100%;margin-left:auto;margin-right:auto" src="[https://github-profile-trophy.vercel.app/?username=cvigueras&theme=onestar&row=1&column=8](https://github-profile-trophy.vercel.app/?username=cvigueras)" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
