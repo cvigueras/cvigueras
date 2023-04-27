@@ -16,7 +16,6 @@
   <img style="display:block;width:30%;height:100%;margin-left:auto;margin-right:auto" src="https://komarev.com/ghpvc/?username=cvigueras&color=green" />
 </p>
 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/carlosjvigueras" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
