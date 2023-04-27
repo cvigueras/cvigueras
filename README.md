@@ -1,7 +1,5 @@
 <div style="float:left;width:100%;text-align:center;padding-bottom:12%;"><img align="left" width="100%" height="auto" src="/header.png" href="https://github.com/cvigueras"><br /></div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=cvigueras)](https://github.com/ryo-ma/github-profile-trophy)
-
 <div style="float:left;width:100%;text-align:center"><a href="https://github.com/anuraghazra/github-readme-stats">
   <img style="display:block;width:100%;height:100%;margin-left:auto;margin-right:auto" src="https://github-readme-stats.vercel.app/api?username=cvigueras&show_icons=true&theme=flat&hide_border=true" />
 </a></div>
