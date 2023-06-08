@@ -13,11 +13,11 @@
   <img style="display:block;width:100%;height:100%;margin-left:auto;margin-right:auto" src="https://github-profile-trophy.vercel.app/?username=cvigueras" />
 </a>  <br>  <br>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cvigueras&layout=compact)
+
 <p align="center">
   <img style="display:block;width:30%;height:100%;margin-left:auto;margin-right:auto" src="https://komarev.com/ghpvc/?username=cvigueras&color=green" />
 </p>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cvigueras&layout=compact)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
