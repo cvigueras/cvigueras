@@ -25,3 +25,5 @@
 <!--- <a href="your link" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
 <a href="your link" target="_blank"><img style="display:block;width:100%;height:100%;margin-left:auto;margin-right:auto" align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a> -->
 </p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cvigueras&layout=compact)
