@@ -1,6 +1,6 @@
 <div style="float:left;width:100%;text-align:center;padding-bottom:12%;"><img align="left" width="100%" height="auto" src="/header.png" href="https://github.com/cvigueras"><br /></div>
 
-<br />
+<br>  <br>
 <div style="float:left;width:100%;text-align:center"><a href="https://github.com/anuraghazra/convoychat">
   <img style="display:block;width:100%;height:100%;margin-left:auto;margin-right:auto" src="https://github-readme-streak-stats.herokuapp.com/?user=cvigueras&theme=flat)](https://git.io/streak-stats" />
 </a></div>
