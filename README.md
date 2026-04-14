@@ -5,7 +5,7 @@
   <img style="display:block;width:100%;height:100%;margin-left:auto;margin-right:auto" src="https://github-readme-streak-stats.herokuapp.com/?user=cvigueras&theme=flat)](https://git.io/streak-stats" />
 </a></div>
 
-<br>  <br>
+
 
 <p align="center">
   <img style="display:block;width:30%;height:100%;margin-left:auto;margin-right:auto" src="https://komarev.com/ghpvc/?username=cvigueras&color=green" />
