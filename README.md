@@ -1,4 +1,4 @@
-<div style="float:left;width:100%;text-align:center;padding-bottom:12%;"><img align="left" width="100%" height="auto" src="/header.png" href="https://github.com/cvigueras"><br /></div>
+<div style="float:left;width:100%;text-align:center;padding-bottom:12%;margin-bottom: 100px"><img align="left" width="100%" height="auto" src="/header.png" href="https://github.com/cvigueras"><br /></div>
 
 <br>  <br>
 <div style="float:left;width:100%;text-align:center"><a href="https://github.com/anuraghazra/convoychat">
