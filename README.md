@@ -1,11 +1,13 @@
-<div style="float:left;width:100%;text-align:center;padding-bottom:12%;margin-bottom: 100px"><img align="left" width="100%" height="auto" src="/header.png" href="https://github.com/cvigueras"><br /></div>
+<div style="float:left;width:100%;text-align:center;padding-bottom:12%;margin-bottom: 100px">
+  <img align="left" width="100%" height="auto" src="/header.png" href="https://github.com/cvigueras">
+</div>
 
-<br>  <br>
+<br><br>
 <div style="float:left;width:100%;text-align:center"><a href="https://github.com/anuraghazra/convoychat">
   <img style="display:block;width:100%;height:100%;margin-left:auto;margin-right:auto" src="https://github-readme-streak-stats.herokuapp.com/?user=cvigueras&theme=flat)](https://git.io/streak-stats" />
 </a></div>
 
-
+<br><br>
 
 <p align="center">
   <img style="display:block;width:30%;height:100%;margin-left:auto;margin-right:auto" src="https://komarev.com/ghpvc/?username=cvigueras&color=green" />
