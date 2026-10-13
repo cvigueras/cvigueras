@@ -26,11 +26,9 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,html,css,react,git,github,vscode,visualstudio,docker&perline=6" alt="Tecnologías" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,react,vue,github,vscode,visualstudio,docker&perline=10" alt="Tecnologías" />
 
 </div>
-
-> ✏️ Ajusta la lista de iconos en `i=` con tus tecnologías reales: https://skillicons.dev
 
 ## 📊 Estadísticas de GitHub
 
