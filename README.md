@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="/header.png" alt="Carlos J. Vigueras" width="100%" />
-
 # 👋 Hola, soy Carlos J. Vigueras
 
 ### Desarrollador de software · Apasionado por el código limpio y el aprendizaje continuo
